@@ -7,4 +7,4 @@ Both DOCX and PDF versions are included. Feel free to edit the DOCX version and 
 
 Material in this document was compiled from my personal study notes and references information covered in Jeremy's IT Lab videos and Cisco documentation.
 
-DISCLAIMER: This is NOT an official Cisco study guide. This document represents my personal study notes and was created as a review resource based on my own preparation for the CCNA exam. It is not affiliated with or endorsed by Cisco, Jeremy's IT Lab, or Boson.
+*DISCLAIMER: This is NOT an official Cisco study guide. This document represents my personal study notes and was created as a review resource based on my own preparation for the CCNA exam. It is not affiliated with or endorsed by Cisco, Jeremy's IT Lab, or Boson.
